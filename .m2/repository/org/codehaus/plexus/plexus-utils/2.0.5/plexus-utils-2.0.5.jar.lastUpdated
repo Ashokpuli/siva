@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 15 17:32:39 UTC 2018
+default-https\://dev.obss.com.tr/nexus/content/groups/tech-java/.lastUpdated=1526405559580
+https\://dev.obss.com.tr/nexus/content/groups/tech-java/.error=Could not transfer artifact org.codehaus.plexus\:plexus-utils\:jar\:2.0.5 from/to repo.tech-java (https\://dev.obss.com.tr/nexus/content/groups/tech-java/)\: Not authorized , ReasonPhrase\:Unauthorized.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1526405559692
